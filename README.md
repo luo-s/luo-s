@@ -1,5 +1,4 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQHH2xYMWJ7q0w/profile-displaybackgroundimage-shrink_350_1400/0/1667761790746?e=1701907200&v=beta&t=2XDbo-1DUnTI1I8aF4TEVJiYmaAxv956cxbgKLmxxn0)
-
 <h1 align="center">Hi 👋, I'm Shu Luo</h1>
 <h3 align="center">A passionate fullstack developer from Atlanta, GA</h3>
 
@@ -10,10 +9,10 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Full-Stack Development, Cybersecurity, AWS**
-- 👨‍💻 All of my projects are available at [https://luo-s.github.io/](https://luo-s.github.io/) (under construction)
-- 💬 Ask me about **JavaScript, HTML, CSS, Frontend, Backend**
-- 📫 How to reach me **luoshu7@gmail.com**
+- 🌱 I’m currently learning **Full-Stack Development, Cybersecurity, and AWS** -
+👨‍💻 All of my projects are available at
+[https://luo-s.github.io/](https://luo-s.github.io/) - 💬 Ask me about
+**JavaScript** - 📫 How to reach me **luoshu7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -156,6 +155,9 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luo-s&" alt="luo-s" 
-    />
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=luo-s&"
+    alt="luo-s"
+  />
 </p>
