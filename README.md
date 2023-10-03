@@ -9,10 +9,11 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Full-Stack Development, Cybersecurity, and AWS** -
-👨‍💻 All of my projects are available at
-[https://luo-s.github.io/](https://luo-s.github.io/) - 💬 Ask me about
-**JavaScript** - 📫 How to reach me **luoshu7@gmail.com**
+- 🌱 I’m currently learning **Full-Stack Development, Cybersecurity, and AWS**
+- 👨‍💻 All of my projects are available at
+[https://luo-s.github.io/](https://luo-s.github.io/)
+- 💬 Ask me about **JavaScript, HTML, CSS, Frontend, Backend**
+- 📫 How to reach me **luoshu7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
