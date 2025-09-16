@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQHH2xYMWJ7q0w/profile-displaybackgroundimage-shrink_350_1400/0/1667761790746?e=1701907200&v=beta&t=2XDbo-1DUnTI1I8aF4TEVJiYmaAxv956cxbgKLmxxn0)
+![MasterHead](./github-header-banner.png)
 
 <h1 align="center">Hi 👋, I'm Shu Luo</h1>
 <h3 align="center">A passionate fullstack developer from Atlanta, GA</h3>
@@ -52,7 +52,7 @@
       height="40"
     />
   </a>
-  <a 
+  <!-- <a 
     href="https://www.w3schools.com/c/c_intro.php" 
     target="_blank" 
     rel="noreferrer">
@@ -62,8 +62,8 @@
       width="40"
       height="40"
     />
-  </a>
-  <a 
+  </a> -->
+  <!-- <a 
     href="https://isocpp.org/" 
     target="_blank" 
     rel="noreferrer">
@@ -73,8 +73,8 @@
       width="40"
       height="40"
     />
-  </a>
-  <a 
+  </a> -->
+  <!-- <a 
     href="https://www.java.com" 
     target="_blank" 
     rel="noreferrer">
@@ -84,7 +84,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a 
       href="https://developer.mozilla.org/en-US/docs/Web/HTML" 
       target="_blank" 
@@ -140,7 +140,7 @@
         height="40"
       />
   </a>
-  <a 
+  <!-- <a 
       href="https://reactnative.dev/" 
       target="_blank" 
       rel="noreferrer">
@@ -150,7 +150,7 @@
         width="40"
         height="40"
       />
-  </a>   
+  </a>    -->
   <a 
       href="https://nodejs.org" 
       target="_blank" 
@@ -184,7 +184,7 @@
         height="40"
       />
   </a>
-  <a 
+  <!-- <a 
       href="https://www.djangoproject.com/" 
       target="_blank" 
       rel="noreferrer">
@@ -194,7 +194,7 @@
         width="40"
         height="40"
       />
-  </a>   
+  </a>    -->
   <a 
       href="https://git-scm.com/" 
       target="_blank" 
@@ -234,7 +234,7 @@
       rel="noreferrer">
   <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="postgresql"
+        alt="mongoDB"
         width="40"
         height="40"
       />
@@ -245,22 +245,22 @@
       rel="noreferrer">
   <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-        alt="postgresql"
+        alt="redis"
         width="40"
         height="40"
       />
   </a>
-  <a 
+  <!-- <a 
       href="https://www.chartjs.org/" 
       target="_blank" 
       rel="noreferrer">
   <img
         src="https://www.chartjs.org/media/logo-title.svg"
-        alt="chart"
+        alt="chart.js"
         width="40"
         height="40"
       />
-  </a>
+  </a> -->
   <a 
       href="https://jestjs.io/" 
       target="_blank" 
