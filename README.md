@@ -309,7 +309,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=luo-s&show_icons=true&locale=en&layout=donut"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=luo-s&show_icons=true&locale=en&lhide_progress=true"
     alt="luo-s"
   />
 </p>
