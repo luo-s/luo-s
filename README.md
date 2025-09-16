@@ -313,12 +313,12 @@
   />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=luo-s&show_icons=true&locale=en"
     alt="luo-s"
   />
-</p>
+</p> -->
 
 <p align="left">
   <img
