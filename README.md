@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development, Cybersecurity, and Cloud Computing**
 - 👨‍💻 All of my projects are available at
-  [https://luo-s.github.io/](https://luo-s.github.io/)
+  **[https://luo-s.github.io/](https://luo-s.github.io/)**
 - 💬 Ask me about **Python, Javascript, and Data Structure and Algorithms**
 - 📫 How to reach me **luo.s@outlook.com**
 
