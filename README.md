@@ -309,10 +309,8 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=luo-s&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=luo-s&show_icons=true&locale=en&layout=donut"
     alt="luo-s"
-    width="450"
-    height="200"
   />
 </p>
 
@@ -321,8 +319,6 @@
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=luo-s&show_icons=true&locale=en"
     alt="luo-s"
-    width="450"
-    height="200"
   />
 </p>
 
@@ -331,7 +327,5 @@
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=luo-s"
     alt="luo-s"
-    width="450"
-    height="200"
   />
 </p>
