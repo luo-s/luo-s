@@ -1,7 +1,6 @@
 ![MasterHead](./github-header-banner.png)
 
 <h1 align="center">Hi 👋, I am Shu!</h1>
-<h3 align="center">A passionate fullstack developer from Atlanta, GA</h3>
 
 <p align="left">
   <img
@@ -13,7 +12,7 @@
 - 🌱 I’m currently learning **Full-Stack Development, Cybersecurity, and Cloud Computing**
 - 👨‍💻 All of my projects are available at
   [https://luo-s.github.io/](https://luo-s.github.io/)
-- 💬 Ask me about **Python, Javascript, Data Structure and Algorithms, Cybersecurity**
+- 💬 Ask me about **Python, Javascript, and Data Structure and Algorithms**
 - 📫 How to reach me **luo.s@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -309,7 +308,7 @@
 
 <p>
   <img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=luo-s&show_icons=true&locale=en&layout=compact"
     alt="luo-s"
   />
