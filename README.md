@@ -306,19 +306,21 @@
   </a> -->
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=luo-s&show_icons=true&locale=en&layout=compact"
     alt="luo-s"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=luo-s&show_icons=true&locale=en"
     alt="luo-s"
   />
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=luo-s"
     alt="luo-s"
