@@ -306,25 +306,20 @@
   </a> -->
 </p>
 
-<p>
+<p align="center">
   <img
-    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=luo-s&show_icons=true&locale=en&layout=compact"
     alt="luo-s"
   />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
     src="https://github-readme-stats.vercel.app/api?username=luo-s&show_icons=true&locale=en"
     alt="luo-s"
   />
 </p>
 
-<p>
+<p align="center">
   <img
-    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=luo-s"
     alt="luo-s"
   />
