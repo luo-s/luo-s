@@ -1,6 +1,6 @@
 ![MasterHead](./github-header-banner.png)
 
-<h1 align="center">Hi 👋, I'm Shu Luo</h1>
+<h1 align="center">Hi 👋, I am Shu!</h1>
 <h3 align="center">A passionate fullstack developer from Atlanta, GA</h3>
 
 <p align="left">
@@ -13,8 +13,8 @@
 - 🌱 I’m currently learning **Full-Stack Development, Cybersecurity, and AWS**
 - 👨‍💻 All of my projects are available at
   [https://luo-s.github.io/](https://luo-s.github.io/)
-- 💬 Ask me about **JavaScript, HTML, CSS, Frontend, Backend**
-- 📫 How to reach me **luoshu7@gmail.com**
+- 💬 Ask me about **Python, Javascript, DSA, Cybersecurity**
+- 📫 How to reach me **luo.s@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a 
+    <a 
+    href="https://www.python.org/" 
+    target="_blank" 
+    rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+    <a 
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
     target="_blank" 
     rel="noreferrer">
@@ -41,16 +51,6 @@
       height="40"
     />
   </a>
-  <a 
-    href="https://www.python.org/" 
-    target="_blank" 
-    rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
   </a>
   <!-- <a 
     href="https://www.w3schools.com/c/c_intro.php" 
@@ -239,7 +239,7 @@
         height="40"
       />
   </a>
-  <a 
+  <!-- <a 
       href="https://redis.io/" 
       target="_blank" 
       rel="noreferrer">
@@ -249,7 +249,7 @@
         width="40"
         height="40"
       />
-  </a>
+  </a> -->
   <!-- <a 
       href="https://www.chartjs.org/" 
       target="_blank" 
@@ -261,7 +261,7 @@
         height="40"
       />
   </a> -->
-  <a 
+  <!-- <a 
       href="https://jestjs.io/" 
       target="_blank" 
       rel="noreferrer">
@@ -304,7 +304,7 @@
         width="40"
         height="40"
       />
-  </a>
+  </a> -->
 </p>
 
 <p>
